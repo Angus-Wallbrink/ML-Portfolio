@@ -1,6 +1,6 @@
 # ML-Portfolio
 
-This is my GitHub repository for my Term 3 Machine Learning assignment. In this repository, you'll find my K-NN and Linear Regression code, as well as my research report on neural networks.
+This is my GitHub repository for my Term 3 Machine Learning assignment. In this repository, you'll find my K-NN and Linear Regression code, as well as my research report on neural networks. My 30 marks consist of this repository (5 marks), the K-NN model (5 marks), the linear regression model (5 marks) and the neural network essay (15 marks).
 
 ## Table of Contents
 - [Linear Regression - 5 points](#linear-regression---5-points)
