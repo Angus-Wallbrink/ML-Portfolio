@@ -10,21 +10,21 @@ This is my GitHub repository for my Term 3 Machine Learning assignment. In this 
 
 ## Linear Regression - 5 points
 
-My linear regression program processes inputted data and makes predictions based on that data. For example, I used the temperature to predict how much of a specific area was burnt.
+My linear regression program processes inputted data and makes predictions based on that data. For example, I used the temperature to predict how much of a specific area was burnt. Completed on the 22/08/24.
 
 **References:**
 - [GeeksforGeeks - ML Linear Regression](https://www.geeksforgeeks.org/ml-linear-regression/)
 
 ## K-NN - 5 points
 
-My K-NN program uses proximity to make classifications and predictions about a single point.
+My K-NN program uses proximity to make classifications and predictions about a single point. Completed on 16/08/24
 
 **References:**
 - [YouTube - K-NN Explained](https://www.youtube.com/watch?v=CMtpzNJbbWQ)
 
 ## Neural Network Research Report - 15 points
 
-This is my 750-word report on neural networks that covers everything from neural network architecture and components, to training processes, to different types of networks, and much more. This report is designed to offer a foundational understanding for anyone interested in exploring deep learning and neural network technologies.
+This is my 750-word report on neural networks that covers everything from neural network architecture and components, to training processes, to different types of networks, and much more. This report is designed to offer a foundational understanding for anyone interested in exploring deep learning and neural network technologies. Completed on 21/08/24.
 
 **References:**
 - [AWS - What is a Neural Network?](https://aws.amazon.com/whatis/neuralnetwork/#:~:text=A%20neural%20network%20is%20a)
